@@ -1,0 +1,49 @@
+#gf-logo {
+    height: 30px;
+    width: 80px;
+    background-image: url(../imgs/logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+section.greetings {
+    padding: 50px;
+    background-color: #3cb6ff;
+}
+
+section.greetings img {
+    width: 60%;
+    margin: auto;
+    display: block;
+}
+
+section.issue {
+    padding: 50px;
+    background-color: #fbd83f;
+}
+
+section.issue img {
+    width: 60%;
+    margin: auto;
+    display: block;
+}
+
+section.contact img {
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+section.catalog {
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.card {
+    margin: auto auto 20px;
+}
